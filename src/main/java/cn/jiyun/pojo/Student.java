@@ -11,6 +11,16 @@ public class Student {
     private Integer age;
     private Date beginDate;
 
+    private String addressName;
+
+    public String getAddressName() {
+        return addressName;
+    }
+
+    public void setAddressName(String addressName) {
+        this.addressName = addressName;
+    }
+
     private  String  uname;
 
     public String getUname() {
