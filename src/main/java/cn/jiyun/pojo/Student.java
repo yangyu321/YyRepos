@@ -9,7 +9,7 @@ public class Student {
     private String address;
     private String hobby;
     private Integer age;
-    private Date beginDate;
+    private int mid;
 
     private String addressName;
 
